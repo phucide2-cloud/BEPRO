@@ -1,0 +1,21 @@
+channel_id = C06UCHA7LR3
+https://bepro.slack.com/archives/C06UCHA7LR3/p1786525060562109
+thread_id = https://bepro.slack.com/archives/C06UCHA7LR3/p1786525060562109                                              /main
+            https://bepro.slack.com/archives/C06UCHA7LR3/p1786711073365449?thread_ts=1786525060.562109&cid=C06UCHA7LR3  /branch1
+            https://bepro.slack.com/archives/C06UCHA7LR3/p1786525096989439?thread_ts=1786525060.562109&cid=C06UCHA7LR3  /branch2
+
+chat_box =  //*[@id="C06UCHA7LR3-1786525060.562109-thread-list-Thread_input"]/div/div[2]/div/div/div[2]/div/div[1]/p    /main
+            //*[@id="C06UCHA7LR3-1786525060.562109-thread-list-Thread_input"]/div/div[2]/div/div/div[2]/div/div[1]/p    /branch1
+            //*[@id="C06UCHA7LR3-1786452365.647009-thread-list-Thread_input"]/div/div[2]/div/div/div[2]/div/div[1]/p    /event
+
+button =    //*[@id="message-list_1786711073.365449"]/div/div/div/div/div/div[2]/button    /branch1
+            //*[@id="message-list_1786525096.989439"]/div/div/div/div/div/div[2]/button    /branch2
+            //*[@id="message-list_1786720449.925809"]/div/div/div/div/div/div[2]/button    /event
+
+https://bepro.slack.com/archives/C06UCHA7LR3/p1786452365647009
+//*[@id="C06UCHA7LR3-1786452365.647009-thread-list-Thread_input"]/div/div[2]/div/div/div[2]/div/div[1]/p
+//*[@id="primary-C06UCHA7LR3-1786720449.925809-broadcast_thread_root_message"]
+
+//*[@id="primary-C06UCHA7LR3-1786720449.925809-broadcast_thread_root_message"]
+
+//*[@id="C06UCHA7LR3-1786525060.562109-thread-list-Thread_input"]/div/div[2]/div/div/div[2]/div/div[1]/p
